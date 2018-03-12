@@ -7,7 +7,7 @@ class MyMapReduceJob(MRJob):
 
     def mapper(self, _, line):
      pecahan = line.split("\t")
-     nama_lagu = pecahan[3]
+     nama_lagu = pecahan[5]
      #sales = float(pecahan[4]) 
      #yield nama_produk, sales
      yield nama_lagu, 1
