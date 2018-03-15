@@ -1,0 +1,12 @@
+"October"	1532756
+"September"	1450543
+"January"	1766925
+"July"	1378325
+"June"	1403751
+"March"	1911394
+"May"	1545804
+"November"	1555702
+"December"	1623073
+"February"	1711806
+"April"	1865254
+"August"	1405535
