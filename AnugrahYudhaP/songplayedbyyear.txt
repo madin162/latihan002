@@ -1,0 +1,7 @@
+"Total number of tracks played for year 2005 is"	1070656
+"Total number of tracks played for year 2006 is"	4255308
+"Total number of tracks played for year 2007 is"	5358216
+"Total number of tracks played for year 2008 is"	5929147
+"Total number of tracks played for year 2009 is"	2537539
+"Total number of tracks played for year 2010 is"	1
+"Total number of tracks played for year 2013 is"	1

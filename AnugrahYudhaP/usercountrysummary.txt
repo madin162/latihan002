@@ -1,0 +1,68 @@
+""	85
+"Algeria"	1
+"Antarctica"	1
+"Argentina"	9
+"Armenia"	1
+"Australia"	22
+"Austria"	3
+"Belarus"	1
+"Belgium"	9
+"Bosnia and Herzegovina"	1
+"Brazil"	20
+"British Indian Ocean Territory"	1
+"Bulgaria"	7
+"Canada"	32
+"Chile"	8
+"China"	3
+"Colombia"	3
+"Congo, the Democratic Republic of the"	1
+"Cote D'Ivoire"	1
+"Croatia"	7
+"Czech Republic"	5
+"Estonia"	4
+"Finland"	32
+"France"	14
+"Germany"	36
+"Greece"	3
+"Hungary"	4
+"Iceland"	1
+"India"	1
+"Ireland"	4
+"Israel"	1
+"Italy"	27
+"Japan"	5
+"Korea, Democratic People's Republic of"	1
+"Latvia"	3
+"Lithuania"	4
+"Macedonia"	1
+"Malta"	1
+"Mexico"	12
+"Morocco"	2
+"Netherlands Antilles"	1
+"Netherlands"	23
+"New Zealand"	6
+"Nicaragua"	1
+"Northern Mariana Islands"	1
+"Norway"	35
+"Peru"	5
+"Poland"	50
+"Portugal"	8
+"Romania"	8
+"Russian Federation"	22
+"Serbia"	4
+"Singapore"	1
+"Slovakia"	4
+"Slovenia"	2
+"Spain"	17
+"Sweden"	24
+"Switzerland"	5
+"Thailand"	3
+"Trinidad and Tobago"	4
+"Tunisia"	1
+"Turkey"	28
+"United Kingdom"	126
+"United States Minor Outlying Islands"	1
+"United States"	228
+"Venezuela"	6
+"Zimbabwe"	1
+"country"	1
