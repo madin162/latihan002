@@ -1,0 +1,3 @@
+1. File songsplay.py merupakan proses klasifikasi data untuk mencari jumlah dari berapa kali lagu diputar yang bernama songsplay.txt 
+2. File topsong.py merupakan tahap awal dari proses klasifikasi data untuk mengurutkan daftar lagu yang paling sering diputar yang bernama topsong.txt 
+3. File topsong2.py merupakan tahap akhir dari proses klasifikasi data untuk mengurutkan daftar lagu yang paling sering diputar yang bernama topsong2.txt
