@@ -1,0 +1,5 @@
+"Jumlah lagu yang diputar pada tahun 2005 = "	44664
+"Jumlah lagu yang diputar pada tahun 2006 = "	214311
+"Jumlah lagu yang diputar pada tahun 2007 = "	239920
+"Jumlah lagu yang diputar pada tahun 2008 = "	234777
+"Jumlah lagu yang diputar pada tahun 2009 = "	102201
